@@ -14,9 +14,12 @@ Briefly describe your project here. Explain its purpose, features, and any key a
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Secure and transparent transactions
+- Decentralized application (DApp) support
+- Smart contract integration
+- High-speed processing
+- User-friendly interface
+- Low transaction fees
 
 ## Installation
 
