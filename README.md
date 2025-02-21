@@ -1,10 +1,8 @@
-# Project Name
-
-Your Project Name
+# Donation Pool
 
 ## Description
 
-Briefly describe your project here. Explain its purpose, features, and any key aspects that make it unique.
+Donation Pool is a decentralized platform that allows users to contribute funds securely using blockchain technology. It ensures transparency and immutability, making donations more reliable and trackable.
 
 ## Smart Contract Address
 
@@ -14,29 +12,30 @@ Briefly describe your project here. Explain its purpose, features, and any key a
 
 ## Features
 
-- Secure and transparent transactions
-- Decentralized application (DApp) support
-- Smart contract integration
-- High-speed processing
-- User-friendly interface
-- Low transaction fees
+- Secure and transparent donation tracking
+- Smart contract-powered fund distribution
+- Decentralized and tamper-proof transactions
+- Real-time contribution updates
 
 ## Installation
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/your-username/donation-pool.git
+cd donation-pool
 npm install
 ```
 
 ## Usage
 
-Explain how to use your project, including any setup steps and example commands.
+1. Connect your Ethereum wallet to the platform.
+2. Choose a cause to donate to.
+3. Confirm the transaction via your wallet.
+4. Track donations transparently on the blockchain.
 
 ## License
 
-Specify the license of your project.
+This project is licensed under the MIT License.
 
 ## Contact
 
-For any queries, reach out at [your-email@example.com](mailto:your-email@example.com).
+For any queries, reach out at [contact@example.com](mailto:contact@example.com).
